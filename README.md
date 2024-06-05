@@ -1,4 +1,4 @@
-![vht header](/data/vht_header.png)
+![vht header](vht_header.png)
 ## about
 vahatraker is a MIDI sequencing companion
 for GNU/Linux audio setups. Adhering to Unix philosophy,
@@ -10,7 +10,7 @@ with added value of:
 - fast workflow
 - intuitive midi-in
 - unheard of time signatures
-- scenes a'la 'ton
+- scenes
 - fractal turtles
 - fits on a floppy
 - doesn't make a sound
@@ -29,7 +29,7 @@ Human interfacing part of contraption employs
 GTK through gobject introspection and was also contrived
 in the language we shall no longer spam about.
 
-## dependencies
+## dependencies for pip build
 ```
 pipewire-audio-client-libraries [jack_capture]
 ```
